@@ -1,0 +1,13 @@
+
+character.png
+size: 1024, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+hunter
+  rotate: false
+  xy: 2, 2
+  size: 512, 64
+  orig: 512, 64
+  offset: 0, 0
+  index: -1

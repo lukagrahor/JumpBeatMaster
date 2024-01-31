@@ -1,0 +1,13 @@
+
+movementOrb.png
+size: 128, 32
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+OrbAnimation-Sheet
+  rotate: false
+  xy: 2, 2
+  size: 98, 13
+  orig: 98, 13
+  offset: 0, 0
+  index: -1
